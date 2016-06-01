@@ -1,0 +1,1 @@
+setx path "%path%;C:\Globus\bin;C:\Globus\sbin" -m

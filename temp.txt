@@ -1,0 +1,4 @@
+"file:///E:/hola/uno.txt" "ftp://root:l4n4s3!2016@10.99.0.146:2811/home/poncho/hola/uno.txt"
+"file:///E:/hola/dos tres/dos.txt" "ftp://root:l4n4s3!2016@10.99.0.146:2811/home/poncho/hola/dos tres/dos.txt"
+"file:///E:/hola/dos tres/tres.txt" "ftp://root:l4n4s3!2016@10.99.0.146:2811/home/poncho/hola/dos tres/tres.txt"
+"file:///E:/hola/H 2/b.txt" "ftp://root:l4n4s3!2016@10.99.0.146:2811/home/poncho/hola/H 2/b.txt"
